@@ -1,0 +1,28 @@
+1.Class 
+	-Class is a collection of objects it contains various type of variable.
+	-Bus is class it contains so much of objects.eg: brake,steering
+
+2.Object 
+
+	-Object is collection state and behaviour 
+	-Like brake has some structure and it has some behaviours
+	-Variable and functions itself in programming aspects 
+
+3.Static
+
+	- Static is a keyword 
+	- It has some superpower or qualities.
+	- When use the static in class the methods class does not need objects to call fuctions in that class.
+
+4.Constructor
+
+	- Constructor means the method was created by the same class name.
+	- The constrctors also called at the time of object creation.
+	- This mostly used for check the start of the projects.
+
+5.Interface 
+
+	- Interface is set of rules and regulations.
+ 	- Interface allows more than class files.
+	- Interface allows you make your own defining method.
+	- Interface helps you keep remeber every function need to be write in a file.
