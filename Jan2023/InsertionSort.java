@@ -1,4 +1,4 @@
-// Java program for implementation of Insertion Sort
+
 public class InsertionSort {
     /*Function to sort array using insertion sort*/
     void sort(int arr[])
