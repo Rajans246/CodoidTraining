@@ -24,7 +24,6 @@ class BubbleSort {
         System.out.println();
     }
 
-    // Driver method to test above
     public static void main(String args[])
     {
         BubbleSort ob = new BubbleSort();
@@ -37,4 +36,4 @@ class BubbleSort {
 
 
 
-//New changes has been update
+//Just ping for the GIT
